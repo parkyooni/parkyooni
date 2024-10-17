@@ -49,5 +49,9 @@
 
 </div>
 
+
+### Project
++ Relaxing: <a href="https://github.com/parkyooni/Relaxing">Git Repo - Clint</a><br/>
++ LayerTune: Git Repo - <a href="https://github.com/parkyooni/LayerTune">Clint</a> | <a href="https://github.com/parkyooni/LayerTune-Backend">Server</a><br/>
   
 
