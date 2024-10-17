@@ -46,9 +46,13 @@
 <br>
 
 <h3 align="center">Contact</h3>
+
 <div align="center">
-  <a href="mailto:yooni.webdev@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:yooni.webdev@gmail.com)](mailto:yooni.webdev@gmail.com) 
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white&link=https://www.notion.so/VACO-761ecd1e76914bb8a9bf884b56366440)](https://www.notion.so/VACO-761ecd1e76914bb8a9bf884b56366440)
+
 </div>
+
+  
+
