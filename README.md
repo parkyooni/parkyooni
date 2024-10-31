@@ -1,7 +1,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:yooni.webdev@gmail.com)](mailto:yooni.webdev@gmail.com) 
-[![Notion Badge](https://www.notion.so/VACO-761ecd1e76914bb8a9bf884b56366440](https://moored-beat-462.notion.site/STUDY-12727dc32c0980b28887fdbabc27345b?pvs=4)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white&link=https://moored-beat-462.notion.site/STUDY-12727dc32c0980b28887fdbabc27345b)](https://moored-beat-462.notion.site/STUDY-12727dc32c0980b28887fdbabc27345b)
 
 ###
+
 <h1>👋 안녕하세요, 박소윤입니다.</h1>
 <p align="left">
   변화에 유연하게 적응하며 지속적으로 성장합니다.
