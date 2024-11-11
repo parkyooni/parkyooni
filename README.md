@@ -12,8 +12,8 @@
 
 ###
 <h2 align="left">Project</h2>
-Relaxing: 프로젝트 생성 단계를 시각화하여 간편하게 생성을 도와줍니다. [ <a href="https://github.com/parkyooni/Relaxing">Git Repo - Clint</a> ]<br/> 
-LayerTune: 웹 사이트의 레이아웃을 사용자가 쉽게 조작할 수 있는 도구 [ Git Repo - <a href="https://github.com/parkyooni/LayerTune">Clint</a> | <a href="https://github.com/parkyooni/LayerTune-Backend">Server</a> ] <br/>
+Relaxing: 프로젝트 생성 단계를 시각화하여 간편하게 생성을 도와줍니다. [ <a href="https://github.com/parkyooni/Relaxing">Git Repo - Client</a> ]<br/> 
+LayerTune: 웹 사이트의 레이아웃을 사용자가 쉽게 조작할 수 있는 도구 [ Git Repo - <a href="https://github.com/parkyooni/LayerTune">Client</a> | <a href="https://github.com/parkyooni/LayerTune-Backend">Server</a> ] <br/>
 
 ### 
 
